@@ -16,6 +16,6 @@ int main() {
 	printf("(%d * %d) - (%d * %d)", A, B, C, D);
 	printf("\n%d - %d", A*B, C*D);
 	printf("\n%d", DIFERENCA);
-	printf("\nA diferença dos produtos AB e CD e: %d", DIFERENCA);
+	printf("\nA diferenÃ§a dos produtos AB e CD e: %d", DIFERENCA);
 		
 }
